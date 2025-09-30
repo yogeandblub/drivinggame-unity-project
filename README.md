@@ -90,5 +90,3 @@ Assets/
 This project is open source under the [MIT License](LICENSE).
 
 ---
-
-Do you want me to also **include example scripts (`CarController.cs` and `UIManager.cs`)** in the README so someone can copy-paste and run right away?
